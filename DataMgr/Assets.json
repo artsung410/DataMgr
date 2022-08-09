@@ -1,0 +1,23 @@
+{
+    "BGM_Volume": 0,
+    "Effect_Volume": 0,
+    "gold": 100,
+    "hp": 300,
+    "moveSpeed": 5.0,
+    "monsterKillDatas": [
+        {
+            "index": 1,
+            "name": "전지윤",
+            "moveSpeed": 2.0,
+            "rotationSpeed": 1.0,
+            "description": "오늘 안옴"
+        },
+        {
+            "index": 2,
+            "name": "권희영",
+            "moveSpeed": 2.0,
+            "rotationSpeed": 1.0,
+            "description": "오늘 안옴"
+        }
+    ]
+}
